@@ -1,4 +1,4 @@
-# Auditchain Roadmap
+# Private Auditchain Roadmap
 
 ## Completion of Settlement and Governance Layer for DCARPE (Proposed Date / quarter)
 
@@ -8,3 +8,10 @@ some information about the milestone.  Could be a link to a subdirectory with co
 
 ## Token Listing (Proposed Date / quarter)
 
+## Integrate Smart Contract Layer for Accounting Logic NFT into Front End
+
+## nform Accountants and Others in DCARPE Alliance of BETA Testing
+
+## nvite Initial Cohort
+
+## Determine and Deliberate Auditor Liability
