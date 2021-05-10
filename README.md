@@ -1,6 +1,6 @@
 # Auditchain Roadmap
 
-## Completion of Settlement and Governance Layer for DCARPE (Proposed Date / or quarter)
+## Completion of Settlement and Governance Layer for DCARPE (Proposed Date / quarter)
 
 some information about the milestone.  Could be a link to a subdirectory with corroborating documents, most likely LFS binary docs.
 
