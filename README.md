@@ -10,8 +10,8 @@ some information about the milestone.  Could be a link to a subdirectory with co
 
 ## Integrate Smart Contract Layer for Accounting Logic NFT into Front End
 
-## nform Accountants and Others in DCARPE Alliance of BETA Testing
+## Inform Accountants and Others in DCARPE Alliance of BETA Testing
 
-## nvite Initial Cohort
+## Invite Initial Cohort
 
 ## Determine and Deliberate Auditor Liability
