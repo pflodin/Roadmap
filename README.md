@@ -17,3 +17,9 @@ some information about the milestone.  Could be a link to a subdirectory with co
 ## Determine and Deliberate Auditor Liability
 
 ## Professional Judgement 
+
+## Complete Development of Pacioli MVP
+
+## ntegrate Pacioli MVP into Front End
+
+## Launch Internal BETA Testing of Accounting Logic NFT
